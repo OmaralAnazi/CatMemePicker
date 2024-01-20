@@ -20,5 +20,5 @@
 Clone the repository and open `index.html` to start picking memes according to your mood.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://leafy-parfait-a8b887.netlify.app/)
 
